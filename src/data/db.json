@@ -1,0 +1,29 @@
+{
+    "trips" : [
+        {
+            "name" : "2 nights in Ngwe Saung",
+            "price" : 200000,
+            "id" : 1,
+            "location" : "Myanmar"
+        },
+        {
+            "name" : "1 nights in InnLay",
+            "price" : 100000,
+            "id" : 2,
+            "location" : "Myanmar"
+        },
+        {
+            "name" : "3 nights in Ngapali",
+            "price" : 300000,
+            "id" : 3,
+            "location" : "Myanmar"
+        },
+        {
+            "name" : "3 nights in Huston",
+            "price" : 1000000,
+            "id" : 4,
+            "location" : "United States"
+        }
+        
+    ]
+}
